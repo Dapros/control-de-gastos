@@ -2,6 +2,7 @@
 
 Este es un proyecto corto desarrollado con **React** y **TypeScript**, que implementa **useReducer** y **Context API** para la gestión del estado global.
 
+
 ## 📖 Descripción
 
 Este proyecto es una aplicación diseñada para gestionar finanzas personales de manera eficiente. Permite establecer un presupuesto mensual inicial que represente el límite de gastos que deseas no superar. A medida que registras tus gastos diarios, la aplicación te permite monitorear tu presupuesto restante, llevar un registro detallado de gastos, visualizar indicadores con colores y filtrar por categorías.
@@ -26,3 +27,8 @@ Aquí está la lista de las dependencias instaladas en el proyecto:
 | [**react-calendar**](https://www.npmjs.com/package/react-calendar)                 | `npm i react-calendar`                           | Calendario interactivo para selección de fechas. |
 | [**uuid**](https://www.npmjs.com/package/uuid)                                     | `npm i uuid && npm i --save-dev @types/uuid`     | Generación de identificadores únicos. |
 | [**react-circular-progressbar**](https://www.npmjs.com/package/react-circular-progressbar) | `npm i react-circular-progressbar`               | Indicadores circulares para gráficos de progreso. |
+
+
+✨ ¡Gracias por leer! 😃
+
+`Por: Sergio Romero`
